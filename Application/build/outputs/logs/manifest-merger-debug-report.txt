@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:20:1-47:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e8a31db1f0ba46812c6ea5fc8b2bbae0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\84845b66f8eaf00599f3a8e8fe73cc02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3d404b70575dcb7f2d7a2947048f9b59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\052b34d2f80f4f85f174b796afeb73d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\38cf35f1ec3ed47b4638357e0edc615f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3ca0afa1b3459e663fdb3141e1302669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\95e9cee5b872069bf36dc571387e353a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4985e29b87e09162186e3c7b8634cf82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e74cfc7a0ec5bc03550598e0214f180f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4eb2c22830bdb4f31cfb86fff5da78b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71ef6ce8c610561f8cdc2ce040ce632a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7b688fc893f64ae383ac6ba52e2449ac\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:20:1-47:12
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:20:1-47:12
+	package
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:22:5-48
+	android:versionName
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:21:5-63
+	android:versionCode
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:28:22-76
+application
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:30:5-46:19
+	android:label
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:32:9-45
+	android:allowBackup
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:33:9-44
+	android:networkSecurityConfig
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:35:9-69
+activity#com.example.android.viewsourceatl.MainActivity
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:38:13-45
+	android:uiOptions
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:37:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e8a31db1f0ba46812c6ea5fc8b2bbae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e8a31db1f0ba46812c6ea5fc8b2bbae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\84845b66f8eaf00599f3a8e8fe73cc02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\84845b66f8eaf00599f3a8e8fe73cc02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3d404b70575dcb7f2d7a2947048f9b59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3d404b70575dcb7f2d7a2947048f9b59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\052b34d2f80f4f85f174b796afeb73d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\052b34d2f80f4f85f174b796afeb73d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\38cf35f1ec3ed47b4638357e0edc615f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\38cf35f1ec3ed47b4638357e0edc615f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3ca0afa1b3459e663fdb3141e1302669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3ca0afa1b3459e663fdb3141e1302669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\95e9cee5b872069bf36dc571387e353a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\95e9cee5b872069bf36dc571387e353a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4985e29b87e09162186e3c7b8634cf82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4985e29b87e09162186e3c7b8634cf82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e74cfc7a0ec5bc03550598e0214f180f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e74cfc7a0ec5bc03550598e0214f180f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4eb2c22830bdb4f31cfb86fff5da78b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4eb2c22830bdb4f31cfb86fff5da78b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71ef6ce8c610561f8cdc2ce040ce632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\71ef6ce8c610561f8cdc2ce040ce632a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7b688fc893f64ae383ac6ba52e2449ac\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\cagles\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7b688fc893f64ae383ac6ba52e2449ac\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\ViewSourceATL\Application\src\main\AndroidManifest.xml
